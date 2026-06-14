@@ -1,0 +1,3 @@
+[submodule "melanoma"]
+	path = melanoma
+	url = https://github.com/mamatzy/MachineLearning-Melanoma.git
